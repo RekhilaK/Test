@@ -1,1 +1,1 @@
-console.log('this is my first app');
+console.log('this is my first proj');
